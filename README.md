@@ -9,6 +9,12 @@
 </div>
 
 ## Discription
+<div align="center">
+  
+![웨딩피치_zep1](https://user-images.githubusercontent.com/87296126/157798174-9b6a9e6b-c033-4cbf-8493-a28881a3800d.jpg)
+  
+</div>
+
 - 2022.03.08 ~ 2022.03.11
 - Netflix dataset을 바탕으로 한 데이터 분석 및 시각화 프로젝트
 - 멤버: 박재경 (팀장)(웨딩피치)/ 김서현(엔젤 릴리)/ 조송희(엔젤 데이지)
